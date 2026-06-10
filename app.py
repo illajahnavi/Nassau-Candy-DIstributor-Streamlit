@@ -163,7 +163,7 @@ def format_number(num):
     )
 
     return store
-store = pd.read_csv(r"C:\Users\jahna\Downloads\Nassau Candy Distributor.csv")
+store = pd.read_csv("Nassau Candy Distributor Streamlit/Nassau Candy Distributor.csv")
 store["Month"] = pd.to_datetime(store["Order Date"], dayfirst=True).dt.to_period("M").dt.to_timestamp()
 
 prod_div = store.groupby(["Division", "Product Name"]).agg(
