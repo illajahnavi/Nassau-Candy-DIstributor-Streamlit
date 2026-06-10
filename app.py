@@ -115,7 +115,7 @@ section[data-testid="stSidebar"] [data-baseweb="input"]:focus-within {
 
 @st.cache_data
 def load_data():
-    store = pd.read_csv(r"C:\Users\jahna\Downloads\Nassau Candy Distributor.csv")
+    store = pd.read_csv("Nassau Candy Distributor.csv")
     store["Order Date"] = pd.to_datetime(store["Order Date"], dayfirst=True)
 
     # Add this line right below it:
