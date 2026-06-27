@@ -1,14 +1,13 @@
 Project Name
+NASSAU CANDY DISTRIBUTOR SALES ANALYSIS USING STREAMLIT
 
-Nassau Candy Distributor Sales Analysis using Streamlit
-
-Description
+DESCRIPTION
 
 Developed an interactive sales analytics dashboard using Python, Pandas, Plotly, and Streamlit to analyze Nassau Candy Distributor's sales performance and generate business insights. The dashboard helps analyze revenue trends, profit performance, product analysis, customer segments, and geographical sales distribution.
 
 The project involved data cleaning, data transformation, exploratory data analysis, and visualization to create interactive KPI metrics and charts that support data-driven decision-making.
 
-Purpose
+PURPOSE
 
 The purpose of this project is to:
 
@@ -18,7 +17,7 @@ Understand customer and regional sales trends
 Track key business KPIs
 Provide an interactive dashboard for business analysis
 
-Features
+FEATURES
 Interactive sales dashboard
 KPI tracking:
 -Total Sales
@@ -30,12 +29,12 @@ KPI tracking:
 -Customer and regional insights
 -Interactive visualizations using Plotly
 -Data filtering and exploration
-Requirements and Dependencies
 
-The project requires:
 
-Python 3.x
-Pandas
-Streamlit
-Plotly
-NumPy
+THE PROJECT REQUIRES:
+
+-Python 3.x
+-Pandas
+-Streamlit
+-Plotly
+-NumPy
