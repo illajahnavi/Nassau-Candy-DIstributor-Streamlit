@@ -13,7 +13,6 @@ The objective of this project is to transform raw sales data into meaningful bus
 
 The project uses data analytics techniques to identify key performance indicators (KPIs) and support data-driven decision-making.
 
----
 BUSINESS PROBLEM
 
 Candy distribution businesses handle large volumes of sales and product data but often face challenges such as:
@@ -27,7 +26,6 @@ Without proper analytics, business decisions become reactive rather than strateg
 
 This project addresses these challenges through structured data analysis and visualization.
 
----
 
 PROJECT OBJECTIVES
 Primary Objectives
@@ -126,7 +124,6 @@ Analytics Techniques
 - Data Visualization
 - Business Analytics
 
----
 
 REQUIREMENTS
 -pandas
